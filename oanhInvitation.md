@@ -19,15 +19,15 @@
 19) Y e:2
 20) anh Hieu:1
 21) Binh Tran:2
-22) Thang Tu(Ban Yen):1:maybe
-23) Thang Nhi(Ban Yen):1:maybe
+22) Thang Tu Ban Yen:1:maybe
+23) Thang Nhi Ban Yen:1:maybe
 24) Laney:1
 25) Annie:1
 26) Jessica:1
 27) Phung:1
 28) Demy:2
 29) Chi Thao:1
-30) Chi Tam (Ban Cau co):1
-31) Anh Toan(Ban Truc):1
-32) Henry (Ban Truc):1
+30) Chi Tam Ban Cau co:1
+31) Anh Toan Ban Truc:1
+32) Henry Ban Truc:1
 
