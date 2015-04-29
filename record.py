@@ -1,14 +1,14 @@
 class Record:
-    def __int__(self, name, numPpl,maybe):
+    def __init__(self, name, numPpl,maybe):
         self.name = name
         self.numPpl = numPpl
         self.maybe = maybe
 
-    def getNumPpl():
+    def getNumPpl(self):
         return self.numPpl
 
-    def getName():
+    def getName(self):
         return self.name
     
-    def getMaybe():
+    def getMaybe(self):
         return self.maybe
