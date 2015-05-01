@@ -26,6 +26,10 @@ def makeArrayOfRecord(strRecordArray, recordArray):
         else:
             record = Record(pieces[0],pieces[1],False)
             recordArray.append(record)
+        printRecord(pieces)
+    print "\n" 
+    print "\n" 
+
 def calculateMaxNumber():
     maxNumber = 0
     minNumber =  0
@@ -43,11 +47,24 @@ def calculateMaxNumber():
         if  (x.getMaybe() == True):
             minNumber = minNumber + int(x.getNumPpl())
     print len(recordArray)
-    print maxNumber
-    print minNumber
+    print "The maximum number that will join is : ", maxNumber
+    print  "The maximum number that will join is : ", minNumber
+    print "-------------------------------------------------------------------------------------------------------------"
+    print "-------------------------------------------------------------------------------------------------------------"
+    print "-------------------------------------------------------------------------------------------------------------"
+    print "-------------------------------------------------------------------------------------------------------------"
 
+def printRecord(pieces):
+    ten = re.split("\)", pieces[0])
+    print "Ten:", ten[1].lstrip(' ')
+    print "So nguoi di: ", pieces[1]
+    if(len(pieces)==3):
+        print "Co The Ko Di: ", pieces[2]
 
 def updateRecordArray (fileName, array):
+    print "*************************************************"
+    print fileName
+    print "*************************************************"
     strRecordArray = putFileIntoAnArray(fileName)
     makeArrayOfRecord(strRecordArray, array)
 
