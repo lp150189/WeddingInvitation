@@ -8,9 +8,8 @@
 7. NhiPham:1 ***1145 springbrook st corona ca***
 8. KhoiNguyen:1  ***9259 E Raintree Dr, APT 2026, Scottsdale, AZ 85260***
 9. Sam:1 ***9259 E Raintree Dr, APT 2026, Scottsdale, AZ 85260***
-10. NhanPhan:1:maybe
 11. Thao phoHa(Justin Lam):1 ***228 Royal coach ave. Pomona ca 91767***
-12. LongLe phoHa:1
+12. LongLe phoHa:1 ***9975 Roberds Ct, Rancho cucamonga, CA 91701***
 14. Chi DiepBui phoHa:2 ***9451 England Ave Westminster, CA 92683***
 16. LienHa pho number1:2 ***611 S Harmon st Santa Ana ca 92704***
 17. ChinhNguyen and MinhNguyen:1 ***312 e. acacia st. apt c ontario ca 91761***
@@ -30,6 +29,8 @@
 32. AndreaContant:2 ***1992 Cambridge Ct. Vista, CA 92081***	
 33. Julie:3 ***19463 mi casa ct Riverside, ca 92508***
 35. Mr.MoTavakoli:1 ***6119 birdie drive, la vern 91750***
-36: Son PhoHa:1
-37: AzariaAnanya:2
-38: Azar  Mammadov:1 
+36: Son PhoHa:1 ***12257 limonite ave # 830***
+37: Azaria:1 ***9650 Milliken ave apt 4304 rancho Cucamonga ca 91730***
+38. Ananya:1 ***P.o. Box 3636, Ontario, CA 91761***
+38. Azar  Mammadov.1 ***1481 west 7 th street apt 81 upland ca91786***
+39. Taka. ***1932 SE 122nd Ave, Portland***
