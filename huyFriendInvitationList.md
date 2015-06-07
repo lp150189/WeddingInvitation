@@ -29,8 +29,8 @@
 32. AndreaContant:2 ***1992 Cambridge Ct. Vista, CA 92081***	
 33. Julie:3 ***19463 mi casa ct Riverside, ca 92508***
 35. Mr.MoTavakoli:1 ***6119 birdie drive, la vern 91750***
-36: Son PhoHa:1 ***12257 limonite ave # 830***
-37: Azaria:1 ***9650 Milliken ave apt 4304 rancho Cucamonga ca 91730***
+36. Son PhoHa:1 ***12257 limonite ave # 830***
+37. Azaria:1 ***9650 Milliken ave apt 4304 rancho Cucamonga ca 91730***
 38. Ananya:1 ***P.o. Box 3636, Ontario, CA 91761***
 38. Azar  Mammadov.1 ***1481 west 7 th street apt 81 upland ca91786***
 39. Taka. ***1932 SE 122nd Ave, Portland***
